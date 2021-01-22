@@ -18,5 +18,5 @@ Sprint 3 : DR, PCA, Cluster
 - 연도별 게임의 트렌드가 있을까?
 - 매출이 높은 게임에 대한 분석 및 시각화 프로세스. 
 
-####Tools
+#### Tools
 Python
