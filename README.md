@@ -1,12 +1,12 @@
 # Project1 
 
-### Our Next Best GAME
-
-데이터 링크: https://urclass.codestates.com/d591e7d1-de40-4c52-aabb-8764804d000c?playlist=441
+### Next Game Changer 
 
 #### 주제: 다음 분기에 어떤 게임을 설게해야 할까?
 
 #### 대상: 비데이터 직군 
+
+#### 데이터: https://urclass.codestates.com/d591e7d1-de40-4c52-aabb-8764804d000c?playlist=441
 
 #### 키워드: 
 Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
