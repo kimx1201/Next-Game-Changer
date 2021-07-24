@@ -10,7 +10,9 @@
 
 #### 키워드: 
 *Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
+
 *Sprint 2 : Hypothesis Test, CI, Bayesian
+
 *Sprint 3 : DR, PCA, Cluster
 
 #### 반드시 들어가야 하는 내용
