@@ -1,12 +1,12 @@
 # Project1 
 
-### Next Game Changer 
+### Next Game Changer: Planning a new game for the next quarter 
 
 #### 주제: 다음 분기에 어떤 게임을 설게해야 할까?
 
 #### 대상: 비데이터 직군 
 
-#### 데이터: https://urclass.codestates.com/d591e7d1-de40-4c52-aabb-8764804d000c?playlist=441
+#### 데이터: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) from Kaggle
 
 #### 키워드: 
 Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
