@@ -1,4 +1,4 @@
-# Project1: Next Game Changer: Planning a new game for the next quarter :bulb:
+# Next Game Changer: Planning a new game for the next quarter :bulb:
 
 
 ### Introduction
