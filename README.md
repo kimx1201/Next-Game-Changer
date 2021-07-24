@@ -1,6 +1,8 @@
-# Project1 
+# Project1: Next Game Changer: Planning a new game for the next quarter :bulb:
 
-### Next Game Changer: Planning a new game for the next quarter 
+
+### Introduction
+
 
 #### Dataset: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) from Kaggle
 
