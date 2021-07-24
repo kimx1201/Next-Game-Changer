@@ -9,9 +9,9 @@
 #### 데이터: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) from Kaggle
 
 #### 키워드: 
-Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
-Sprint 2 : Hypothesis Test, CI, Bayesian
-Sprint 3 : DR, PCA, Cluster
+*Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
+*Sprint 2 : Hypothesis Test, CI, Bayesian
+*Sprint 3 : DR, PCA, Cluster
 
 #### 반드시 들어가야 하는 내용
 - 지역에 따라서 선호하는 게임 장르가 다를까?
