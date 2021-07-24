@@ -2,22 +2,11 @@
 
 ### Next Game Changer: Planning a new game for the next quarter 
 
-#### 주제: 다음 분기에 어떤 게임을 설게해야 할까?
+#### Dataset: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) from Kaggle
 
-#### 대상: 비데이터 직군 
-
-#### 데이터: [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) from Kaggle
-
-#### 키워드: 
-*Sprint 1 : EDA, Feature Engineering, Data Manipulation, Data Visualization
-
-*Sprint 2 : Hypothesis Test, CI, Bayesian
-
-*Sprint 3 : DR, PCA, Cluster
-
-#### 반드시 들어가야 하는 내용
+#### 
 - 지역에 따라서 선호하는 게임 장르가 다를까?
 - 연도별 게임의 트렌드가 있을까?
 - 매출이 높은 게임에 대한 분석 및 시각화 프로세스. 
 
-#### Tools: Python
+#### Tools: Pandas, Seaborn, Matplotib 
